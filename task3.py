@@ -1,3 +1,5 @@
+# url: http://www.pythonchallenge.com/pc/def/ocr.html
+
 import re
 
 input_ = """%%$@_$^__#)^)&!_+]!*@&^}@[@%]()%+$&[(_@%+%$*^@$^!+]!&_#)_*}{}}!}_]$[%}@[{_@#_^{*
